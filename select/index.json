@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Myra",
+  "base_artist": "Tani Yuuki",
+  "createdAt": "2025-12-16T12:14:42.897814Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Myra",
+      "artist": "Tani Yuuki",
+      "has_synced": true,
+      "path": "select/01_Myra_Tani_Yuuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Myra",
+      "artist": "Confessions of a Traitor feat. Ryan Kirby",
+      "has_synced": false,
+      "path": "select/02_Myra_Confessions_of_a_Traitor_feat._Ryan_Kirby.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Myra",
+      "artist": "Confessions of a Traitor/Ryan Kirby",
+      "has_synced": false,
+      "path": "select/03_Myra_Confessions_of_a_Traitor_Ryan_Kirby.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Myra",
+      "artist": "Tani Yuuki",
+      "has_synced": true,
+      "path": "select/04_Myra_Tani_Yuuki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Myra",
+      "artist": "The Seekers",
+      "has_synced": false,
+      "path": "select/05_Myra_The_Seekers.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Myra - Live",
+      "artist": "The Seekers",
+      "has_synced": false,
+      "path": "select/06_Myra_-_Live_The_Seekers.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Khi Cơn Mơ Dần Phai (feat. Tez & Myra Trần)",
+      "artist": "RAP VIỆT feat. Tez & Myra Trần",
+      "has_synced": true,
+      "path": "select/07_Khi_Cơn_Mơ_Dần_Phai_(feat._Tez_&_Myra_Trần)_RAP_VIỆT_feat._Tez_&_Myra_Trần.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Khi Cơn Mơ Dần Phai (feat. Myra Trần)",
+      "artist": "Tez",
+      "has_synced": true,
+      "path": "select/08_Khi_Cơn_Mơ_Dần_Phai_(feat._Myra_Trần)_Tez.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Khi Cơn Mơ Dần Phai (feat. Tez & Myra Trần)",
+      "artist": "RAP VIỆT",
+      "has_synced": true,
+      "path": "select/09_Khi_Cơn_Mơ_Dần_Phai_(feat._Tez_&_Myra_Trần)_RAP_VIỆT.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Khi Cơn Mơ Dần Phai (cùng với Tez và Myra Trần)",
+      "artist": "RAP VIỆT",
+      "has_synced": true,
+      "path": "select/10_Khi_Cơn_Mơ_Dần_Phai_(cùng_với_Tez_và_Myra_Trần)_RAP_VIỆT.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Khi Cơn Mơ Dần Phai (feat. Tez & Myra Trần)",
+      "artist": "RAP VIỆT; Tez; Myra Trần",
+      "has_synced": true,
+      "path": "select/11_Khi_Cơn_Mơ_Dần_Phai_(feat._Tez_&_Myra_Trần)_RAP_VIỆT;_Tez;_Myra_Trần.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Myra - From THE FIRST TAKE",
+      "artist": "Tani Yuuki",
+      "has_synced": true,
+      "path": "select/12_Myra_-_From_THE_FIRST_TAKE_Tani_Yuuki.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Khi Cơn Mơ Dần Phai (Feat. Tez & Myra Trần)",
+      "artist": "RAP VIỆT",
+      "has_synced": true,
+      "path": "select/13_Khi_Cơn_Mơ_Dần_Phai_(Feat._Tez_&_Myra_Trần)_RAP_VIỆT.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Myra",
+      "artist": "Confessions of a Traitor",
+      "has_synced": false,
+      "path": "select/14_Myra_Confessions_of_a_Traitor.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Myra",
+      "artist": "End of Green",
+      "has_synced": false,
+      "path": "select/15_Myra_End_of_Green.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "milk (feat. myra)",
+      "artist": "nasaya",
+      "has_synced": true,
+      "path": "select/16_milk_(feat._myra)_nasaya.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Myra",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/pl_01_Myra_Tani_Yuuki.txt"
+    }
+  ]
+}
